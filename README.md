@@ -1,4 +1,4 @@
-<h1>Heather Baird Project 1.</h1>
+<h1>Heather Baird Project 1</h1>
 
 <h1>Live URL</h1>
 <http://p1-heather.gopagoda.com>
@@ -10,5 +10,5 @@ A simple webpage that utilizes the concepts taught in lectures 1 and 2.
 There are no test credentials.
 
 <h1>Outside Code</h1>
-[Bootstrap]: http://getbootstrap.com/ 
+Bootstrap: <http://getbootstrap.com/>
 

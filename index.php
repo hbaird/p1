@@ -2,7 +2,7 @@
 <html>
 <head>
 
-	<title>Heather Baird Project 1</title>
+	<title>Heather Baird - Project 1</title>
 	<meta charset="utf-8">
 	
 	<meta name="viewport" content="width=device-width, initial-scale=1">
