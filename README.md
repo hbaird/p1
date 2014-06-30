@@ -1,6 +1,6 @@
 This is the readme file for Project 1.
 
-THe live URL for Project 1 is .
+The live URL for Project 1 is   http://p1-heather.gopagoda.com.
 
 There are no test credentials.
 
