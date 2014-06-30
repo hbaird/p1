@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document */
+/* HTML tag styling */
+body {
+    background-image: url("../images/background2.jpg"); 
+  	background-repeat:no-repeat;
+	background-attachment:fixed;
+  	font-family: ubuntu, Arial, Helvetica, sans-serif;
+}
+
+.container {
+	width:50%;
+	margin-bottom:50px;
+}	
+
+h1, h2 {
+	text-align:center;
+	color: #00BF00;
+	text-decoration: none;
+	font-family: "Segoe Script", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue",       Arial, sans-serif;  
+}
+
+h5 {
+	text-align: center;
+}
+p {
+	font-weight: bold;
+}	
+		
+img {
+	display:block;
+	margin:auto;
+	width:100%;
+	border: solid 2px black;
+}
