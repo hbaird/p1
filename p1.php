@@ -14,6 +14,7 @@
 	
 		h1, h5 {
 			text-align:center;
+			text-font: ;
 		}
 	
 		.container {
