@@ -1,6 +1,8 @@
-This is Project 1.
+This is the readme file for Project 1.
 
-THe live URL for this project is .
+THe live URL for Project 1 is .
 
+There are no test credentials.
 
+No external code sources were used.
 

@@ -12,7 +12,7 @@
 
 	<style>
 	
-		h1 {
+		h1, h5 {
 			text-align:center;
 		}
 	
@@ -35,13 +35,13 @@
 	<div class="container">
 		<h1>Heather Baird</h1>
 
-		<img src="/images/withalligator.jpg alt="me with alligator">
+		<img src='images/withalligator.jpg' alt='me with alligator'>
+		<h5>That's me with an alligator.</h5>
 
 		<h2>In 2+ sentences describe who you are and what you do.</h2>
 		<p>Hello! I am currently a full-time student pursuing an undergraduate degree in 
-		Applied Mathematics at Harvard Extension School. This is my second summer taking 
-		classes during summer. I spend the majority of my time studying, but when I can, 
-		I try to take pictures of the night sky, building furniture, read ancient Latin texts,
+		Applied Mathematics at Harvard Extension School. I spend the majority of my time studying,
+		but when I can, I try to take pictures of the night sky, build furniture, read ancient Latin texts,
 		and code.</p>
 
 		<h2>What previous experience do you have with HTML/CSS?</h2>
@@ -50,15 +50,15 @@
 		language, has been purely academic</p>
 
 		<h2>What previous experience do you have with programming?</h2>
-		<p>I completed the Introduction to Computer Science course CS50. I have some limited
+		<p>I completed the Introduction to Computer Science course, CS50. I have some limited
 		experience with programming in C and Java</p>
 
 		<h2>Have you worked with PHP before? If so, to what extent?</h2>
-		<p>I have used PHP to code a project in the past. I am looking forward to learning more 
+		<p>I have used PHP to code a project in the past. I am looking forward to learning
 	    more about PHP this summer.</p>
 
 		<h2>Are you working on a Mac, PC, or some other platform?</h2>
-		<p>I am a using a PC. Sorry.</p>
+		<p>I am a using a PC.</p>
 
 		<h2>Anything else we should know?</h2>
 		<p>I love crocodiles and alligators!</p>
